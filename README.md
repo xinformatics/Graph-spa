@@ -32,8 +32,8 @@ contains numpy matrix for plotting Figure 04
 
 ### saved_models
 
-example of a best performing saved model 
+example of a best-performing saved model 
 
 ### data
-For dataset please contact https://github.com/ratschlab/HIRID-ICU-Benchmark and https://physionet.org/content/hirid/1.1.1/
+We do not have the authorization to share the HiRID ICU Benchmark dataset. Please contact https://github.com/ratschlab/HIRID-ICU-Benchmark and https://physionet.org/content/hirid/1.1.1/
 
