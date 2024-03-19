@@ -1,3 +1,5 @@
+![logo.png](logo.png)
+
 # Graph-spa - A Spatiotemporal Graph Learning Approach for Dynamic Prediction of Acute Respiratory Failure Using High-Dimensional ICU Data
 --- 
 # Documentation
