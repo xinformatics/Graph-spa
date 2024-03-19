@@ -1,1 +1,1 @@
-# dySTGNN
+# Graph-spa
