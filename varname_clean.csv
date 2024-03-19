@@ -1,0 +1,232 @@
+hdf5_index,varname,Variable Name Expanded by chatGPT,Possible Annotation by chatGPT (Description),cleanshortname
+0,datetime,datetime,Timestamp of the recorded data,datetime
+1,ABPd,ABPd (Arterial Blood Pressure diastolic),Diastolic arterial blood pressure,ABPd
+2,ABPm,ABPm (Arterial Blood Pressure mean),Mean arterial blood pressure,ABPm
+3,ABPs,ABPs (Arterial Blood Pressure systolic),Systolic arterial blood pressure,ABPs
+4,ACE Inhibitors,ACE Inhibitors,Administration of ACE inhibitor medications,ACE Inhibitors
+5,ALAT,ALAT (Alanine Aminotransferase),Liver enzyme indicating liver function or damage,ALAT
+6,AMYL-Drainag,AMYL-Drainag,"Amylase level in drainage fluid, indicating pancreatic activity",AMYL Drainage
+7,AMYL-S,AMYL-S (Serum Amylase),"Amylase level in serum, indicating pancreatic activity",AMYL Serum
+8,ASAT,ASAT (Aspartate Aminotransferase),Liver enzyme indicating liver function or damage,ASAT
+9,AWPmean,AWPmean (Airway Mean Pressure),Mean pressure in the airways during respiratory cycles,AWP
+10,Acetazolamide_1.0,Acetazolamide_1.0,"Administration of Acetazolamide, a diuretic and antiglaucoma drug",Acetazolamide
+11,Adenosin_1.0,Adenosin_1.0,"Administration of Adenosine, typically for cardiac issues",Adenosine
+12,Administation of antimycotic_1.0,Administation of antimycotic_1.0,Administration of antifungal medications,Antifungal
+13,Administriation of antibiotics_1.0,Administriation of antibiotics_1.0,Administration of antibiotic medications,Antibiotic
+14,AiwayCode_1.0,AiwayCode_1.0,Indicators of airway management codes,Airway Code 1
+15,AiwayCode_2.0,AiwayCode_2.0,Indicators of airway management codes,Airway Code 2
+16,AiwayCode_3.0,AiwayCode_3.0,Indicators of airway management codes,Airway Code 3
+17,AiwayCode_4.0,AiwayCode_4.0,Indicators of airway management codes,Airway Code 4
+18,AiwayCode_5.0,AiwayCode_5.0,Indicators of airway management codes,Airway Code 5
+19,AiwayCode_6.0,AiwayCode_6.0,Indicators of airway management codes,Airway Code 6
+20,Aldosteron Antagonist_1.0,Aldosteron Antagonist_1.0,Administration of Aldosterone antagonists,Aldosterone Antagonist
+21,Alpha 2 Agonisten,Alpha 2 Agonisten,"Administration of Alpha-2 agonists, typically for hypertension or sedation",Alpha 2 Agonist
+22,Amiodaron_1.0,Amiodaron_1.0,"Administration of Amiodarone, an antiarrhythmic drug",Amiodarone
+23,Ammoniak,Ammoniak,"Blood ammonia level, indicating liver function or damage",Blood Ammonia
+24,Andere_1.0,Andere_1.0,Administration of other unspecified medications or treatments,Other Medications
+25,Anexate_1.0,Anexate_1.0,"Administration of Flumazenil (Anexate), a benzodiazepine antagonist",Anexate
+26,Anti Fibrinolyticum_1.0,Anti Fibrinolyticum_1.0,Administration of anti-fibrinolytic agents,Anti Fibrinolytic s
+27,Anti delirant medi_1.0,Anti delirant medi_1.0,Administration of antidelirant medication,Anti Delirants
+28,Antiepileptica,Antiepileptica,Administration of antiepileptic drugs,Anti Epileptics
+29,Antihelmenticum_1.0,Antihelmenticum_1.0,Administration of antihelminthic drugs,Anti Helminthics
+30,Antihistaminka_1.0,Antihistaminka_1.0,Administration of antihistamines,Anti Histamines
+31,Atropin_1.0,Atropin_1.0,Administration of Atropine,Atropine
+32,B-Blocker,B-Blocker,Administration of Beta-blockers,Beta Blocker
+33,BNP,BNP (B-type Natriuretic Peptide),"Level of BNP, indicating heart failure",BNP
+34,BSR,BSR,Blood Sedimentation Rate,BSR
+35,Barbiturate_1.0,Barbiturate_1.0,"Administration of barbiturates, typically for sedation or seizure control",Barbiturate
+36,Beh. Pulm. Hypertonie_1.0,Beh. Pulm. Hypertonie_1.0,Treatment for pulmonary hypertension,Pulmonary Hypertension
+37,Benzodiacepine,Benzodiacepine,Administration of benzodiazepines,Benzodiacepine
+38,Bicarbonate_1.0,Bicarbonate_1.0,Administration or measurement of bicarbonate levels,Bicarbonate
+39,Bilirubin direct,"Bilirubin, direct","Direct bilirubin level, indicating liver function or damage",Bilirubin
+40,C-reactive protein,C-reactive protein,"CRP level, indicating inflammation or infection",CRP
+41,CO,CO (Cardiac Output),Measurement of the volume of blood the heart pumps per minute,CO
+42,Ca Antagonists,Ca Antagonists,Administration of calcium channel blockers,Ca Antagonist
+43,Ca2+ ionizied,Ca2+ ionizied,Level of ionized calcium in the blood,Ca2+ Ionized
+44,Ca2+ total,Ca2+ total,Total calcium level in the blood,Ca2+ Total
+45,Ca_1.0,Ca_1.0,Administration of calcium,Ca Admin
+46,Chemotherapie_1.0,Chemotherapie_1.0,Administration of chemotherapy agents,Chemotherapic Agents
+47,Cl-,Cl- (Chloride),Chloride level in the blood,Chlorine
+48,Cortisol,Cortisol,"Cortisol level, indicating stress or adrenal function",Cortisol
+49,Digoxin_1.0,Digoxin_1.0,"Administration of Digoxin, a cardiac glycoside",Digoxin
+50,ETCO2,ETCO2 (End Tidal CO2),Measurement of CO2 concentration in exhaled air,ETCO2
+51,Enteral Feeding_1.0,Enteral Feeding_1.0,Administration of nutrition via the gastrointestinal tract,Enteral Feeding
+52,FFP,FFP (Fresh Frozen Plasma),Administration of FFP for coagulation factor replacement,FFP
+53,FII,FII (Factor II),"Prothrombin level, a coagulation factor",Prothrombin
+54,FIO2,FIO2 (Fraction of Inspired Oxygen),Percentage of oxygen in the air mixture being inhaled,FIO2
+55,Factor V,Factor V,Coagulation Factor V level,Factor V
+56,Factor VII,Factor VII,Coagulation Factor VII level,Factor VII
+57,Ferritin,Ferritin,"Ferritin level, indicating iron storage",Ferritin
+58,Fibrinogen,Fibrinogen,"Fibrinogen level, a coagulation factor",Fibrinogen
+59,GCS Antwort,GCS Antwort (Glasgow Coma Scale Response),"GCS response score, part of the Glasgow Coma Scale",GCS Response
+60,GCS Augenï¿½ffnen,GCS Augenöffnen (GCS Eye Opening),"GCS eye-opening score, part of the Glasgow Coma Scale",GCS Eye Opening
+61,GCS Motorik,GCS Motorik (GCS Motor Response),"GCS motor response score, part of the Glasgow Coma Scale",GCS Motor Response
+62,GCSF_1.0,GCSF_1.0,Administration of Granulocyte Colony-Stimulating Factor,GCSF
+63,Glucose Administration,Glucose Administration,Administration of glucose,Glucose Admin
+64,Glucose Liquor,Glucose Liquor,Glucose level in cerebrospinal fluid,Glucose CF
+65,HR,HR (Heart Rate),Measurement of the heart rate,HR
+66,Haemofiltration_1.0,Haemofiltration_1.0,"Administration of haemofiltration, a type of renal replacement therapy",Haemofiltration
+67,Hb,Hb (Hemoglobin),"Hemoglobin level, indicating oxygen-carrying capacity of the blood",Hemoglobin
+68,Heparin,Heparin,"Administration of Heparin, an anticoagulant",Heparin
+69,ICP,ICP (Intracranial Pressure),Measurement of the pressure inside the skull,ICP
+70,IN,IN,"Not clearly defined, possibly a typo or requires specific context",IN
+71,INR,INR (International Normalized Ratio),Measurement of blood clotting time compared to normal,INR
+72,Immunoglobulin_1.0,Immunoglobulin_1.0,Administration of immunoglobulins,Immunoglobulin
+73,Immunsuppression_1.0,Immunsuppression_1.0,Administration of immunosuppressive drugs,Immunsuppressant
+74,Incolloid,Incolloid,Administration of colloidal solutions,Incolloid
+75,Incrys,Incrys,"Not clearly defined, possibly a typo or requires specific context",Incrys
+76,Insulin Kurzwirksam,Insulin Kurzwirksam (Short-acting Insulin),Administration of short-acting insulin,SA Insulin
+77,Insuling Langwirksam,Insuling Langwirksam (Long-acting Insulin),Administration of long-acting insulin,LA Insulin
+78,K+,K+ (Potassium),Potassium level in the blood,K+
+79,K-sparend_1.0,K-sparend_1.0,Administration of potassium-sparing diuretics,K-sparing diuretics
+80,Kalium_1.0,Kalium_1.0,Administration of potassium,K+ Admin
+81,Ketalar,Ketalar,"Administration of Ketamine, typically for anesthesia or pain relief",Ketamine
+82,Laktat Liquor,Laktat Liquor,Lactate level in cerebrospinal fluid,Lactate CF
+83,Lipase,Lipase,"Lipase level, indicating pancreatic activity",Lipase
+84,Liquor/h,Liquor/h,Cerebrospinal fluid production rate per hour,CSF Production
+85,Loop diuretics,Loop diuretics,Administration of loop diuretics,Loop diuretics
+86,Lysetherapie_1.0,Lysetherapie_1.0,Administration of thrombolytic therapy,Thrombolytics 
+87,MCH,MCH (Mean Corpuscular Hemoglobin),Average mass of hemoglobin per red blood cell,MCH
+88,MCHC,MCHC (Mean Corpuscular Hemoglobin Concentration),Average concentration of hemoglobin in a given volume of packed red blood cells,MCHC
+89,MCV,MCV (Mean Corpuscular Volume),Average volume of a red blood cell,MCV
+90,Marcoumar_1.0,Marcoumar_1.0,"Administration of Marcoumar, a brand of anticoagulant",Marcoumar
+91,Mg_1.0,Mg_1.0,Administration of magnesium,Mg+ Admin
+92,Mg_lab,Mg_lab,Magnesium level in the blood,Mg+
+93,Mineralokortikoid_1.0,Mineralokortikoid_1.0,Administration of mineralocorticoids,Mineralocorticoids
+94,Muskelrelaxans_1.0,Muskelrelaxans_1.0,Administration of muscle relaxants,Muscle relaxants
+95,NIBPd,NIBPd (Non-Invasive Blood Pressure diastolic),Non-invasive measurement of diastolic blood pressure,NIBPd
+96,NIBPm,NIBPm (Non-Invasive Blood Pressure mean),Non-invasive measurement of mean blood pressure,NIBPm
+97,NIBPs,NIBPs (Non-Invasive Blood Pressure systolic),Non-invasive measurement of systolic blood pressure,NIBPs
+98,NMH_1.0,NMH_1.0,Administration of low molecular weight heparins,LM Heparin
+99,NSAR_1.0,NSAR_1.0,Administration of non-steroidal anti-inflammatory drugs,NSAR
+100,Na+,Na+ (Sodium),Sodium level in the blood,Na+
+101,Na_1.0,Na_1.0,Administration of sodium,Na+ Admin
+102,Naloxon_1.0,Naloxon_1.0,"Administration of Naloxone, typically for opioid overdose",Naloxone
+103,Neutr,Neutr,"Not clearly defined, possibly referring to neutrophils or requires specific context",Neutrophils
+104,Nimodipin_1.0,Nimodipin_1.0,"Administration of Nimodipine, typically for cerebral vasospasm",Nimodipine
+105,Non-opioide_1.0,Non-opioide_1.0,Administration of non-opioid pain relievers,NOPR
+106,OUT,OUT,"Not clearly defined, possibly referring to output or requires specific context",nan
+107,OUTurine/h,OUTurine/h,Urine output per hour,Urine Out
+108,Opiate,Opiate,Administration of opiates,Opiate
+109,Others in Case of HIT_1.0,Others in Case of HIT_1.0,Administration of other medications in case of Heparin-Induced Thrombocytopenia,OM HIT
+110,PAPd,PAPd (Pulmonary Artery Pressure diastolic),Diastolic pulmonary artery pressure,PAPd
+111,PAPm,PAPm (Pulmonary Artery Pressure mean),Mean pulmonary artery pressure,PAPm
+112,PAPs,PAPs (Pulmonary Artery Pressure systolic),Systolic pulmonary artery pressure,PAPs
+113,PCWP,PCWP (Pulmonary Capillary Wedge Pressure),Measurement of left ventricular preload indirectly,PCWP
+114,Pankreas Enzyme_1.0,Pankreas Enzyme_1.0,Administration of pancreatic enzymes,PE Admin
+115,Parenteral Feeding_1.0,Parenteral Feeding_1.0,Administration of nutrition intravenously,Parenteral Feed
+116,Parkinson Medikaiton_1.0,Parkinson Medikaiton_1.0,Administration of Parkinson's disease medication,Parkinson's Med
+117,Peep,Peep (Positive End-Expiratory Pressure),Level of positive pressure maintained in the lungs at the end of expiration,Peep
+118,Peripherial Anesthesia_1.0,Peripherial Anesthesia_1.0,Administration of peripheral anesthesia,Peripheral Anesthesia
+119,Phosphat_1.0,Phosphat_1.0,Administration of phosphates,Phosphate Admin
+120,Plateaudruck,Plateaudruck (Plateau Pressure),Pressure in the lungs at the end of inhalation in mechanical ventilation,Plateau Pressure
+121,Propofol,Propofol,"Administration of Propofol, typically for sedation or anesthesia",Propofol
+122,Protamin_1.0,Protamin_1.0,"Administration of Protamine, typically to reverse the effects of heparin",Protamine
+123,Psychopharma_1.0,Psychopharma_1.0,Administration of psychotropic drugs,Psycotropics
+124,RASS,RASS (Richmond Agitation-Sedation Scale),Score to measure agitation and sedation levels,RASS
+125,RR,RR (Respiratory Rate),Measurement of the rate of breathing,RR
+126,RR set,RR set,Preset respiratory rate in mechanical ventilation,RR set
+127,Rhythmus_1.0,Rhythmus_1.0,Indicators of cardiac rhythm types,Rhythmus 1
+128,Rhythmus_10.0,Rhythmus_10.0,Indicators of cardiac rhythm types,Rhythmus 10
+129,Rhythmus_11.0,Rhythmus_11.0,Indicators of cardiac rhythm types,Rhythmus 11
+130,Rhythmus_12.0,Rhythmus_12.0,Indicators of cardiac rhythm types,Rhythmus 12
+131,Rhythmus_13.0,Rhythmus_13.0,Indicators of cardiac rhythm types,Rhythmus 13
+132,Rhythmus_14.0,Rhythmus_14.0,Indicators of cardiac rhythm types,Rhythmus 14
+133,Rhythmus_15.0,Rhythmus_15.0,Indicators of cardiac rhythm types,Rhythmus 15
+134,Rhythmus_16.0,Rhythmus_16.0,Indicators of cardiac rhythm types,Rhythmus 16
+135,Rhythmus_5.0,Rhythmus_5.0,Indicators of cardiac rhythm types,Rhythmus 5
+136,Rhythmus_6.0,Rhythmus_6.0,Indicators of cardiac rhythm types,Rhythmus 6
+137,Rhythmus_7.0,Rhythmus_7.0,Indicators of cardiac rhythm types,Rhythmus 7
+138,Rhythmus_8.0,Rhythmus_8.0,Indicators of cardiac rhythm types,Rhythmus 8
+139,Rhythmus_9.0,Rhythmus_9.0,Indicators of cardiac rhythm types,Rhythmus 9
+140,ST1,ST1,"ST segment measurements in electrocardiogram, indicating heart function",ST1
+141,ST2,ST2,"ST segment measurements in electrocardiogram, indicating heart function",ST2
+142,ST3,ST3,"ST segment measurements in electrocardiogram, indicating heart function",ST3
+143,Sartane,Sartane,Administration of Angiotensin II Receptor Blockers (ARBs),ARBs
+144,Segm. Neut.,Segm. Neut. (Segmented Neutrophils),Percentage of segmented neutrophils in white blood cells,Seg Neutrophils
+145,SpO2,SpO2 (Oxygen Saturation),Peripheral measurement of oxygen saturation in the blood,SpO2
+146,Spitzendruck,Spitzendruck (Peak Pressure),Maximum pressure in the lungs during inhalation in mechanical ventilation,Peak Pressure
+147,Stabk. Neut.,Stabk. Neut. (Stab Neutrophils),Percentage of immature neutrophils (band cells) in white blood cells,Imm Neutrophils
+148,Steroids,Steroids,Administration of corticosteroids,Steroids
+149,SvO2(m),SvO2(m) (Mixed Venous Oxygen Saturation),Measurement of oxygen saturation in the blood returning to the heart,SvO2(m)
+150,T Central,T Central (Central Temperature),Measurement of the body's core temperature,T Central
+151,TOF,TOF (Train of Four),A test to measure neuromuscular blockade during anesthesia,TOF
+152,TSH,TSH (Thyroid Stimulating Hormone),"Level of TSH, indicating thyroid function",TSH
+153,TV,TV (Tidal Volume),Volume of air moved into or out of the lungs during a single breathing cycle,TV
+154,Terlipressin_1.0,Terlipressin_1.0,"Administration of Terlipressin, typically for variceal bleeding",Terlipressin
+155,Thiazide_1.0,Thiazide_1.0,Administration of Thiazide diuretics,Thiazide
+156,Thrombozytenhemmer_1.0,Thrombozytenhemmer_1.0,Administration of platelet aggregation inhibitors,PA Inhibitor
+157,Thyreostatikum_1.0,Thyreostatikum_1.0,Administration of thyroid hormone synthesis inhibitors,THS Inhibitor
+158,Thyrotardin_1.0,Thyrotardin_1.0,Administration of drugs to reduce thyroid hormone levels,Thyrotardin
+159,Thyroxin_1.0,Thyroxin_1.0,Administration of Thyroxine,Thryroxine
+160,Trace elements_1.0,Trace elements_1.0,Administration of trace elements,Trace E
+161,Troponin-T,Troponin-T,"Level of Troponin-T, indicating cardiac muscle damage",Troponin-T
+162,Urea,Urea,"Urea level in the blood, indicating kidney function",Urea
+163,Ventilator mode_1.0,Ventilator mode_1.0,Indicators of specific ventilator modes,VM 1
+164,Ventilator mode_11.0,Ventilator mode_11.0,Indicators of specific ventilator modes,VM 11
+165,Ventilator mode_12.0,Ventilator mode_12.0,Indicators of specific ventilator modes,VM 12
+166,Ventilator mode_13.0,Ventilator mode_13.0,Indicators of specific ventilator modes,VM 13
+167,Ventilator mode_14.0,Ventilator mode_14.0,Indicators of specific ventilator modes,VM 14
+168,Ventilator mode_15.0,Ventilator mode_15.0,Indicators of specific ventilator modes,VM 15
+169,Ventilator mode_2.0,Ventilator mode_2.0,Indicators of specific ventilator modes,VM 2
+170,Ventilator mode_3.0,Ventilator mode_3.0,Indicators of specific ventilator modes,VM 3
+171,Ventilator mode_4.0,Ventilator mode_4.0,Indicators of specific ventilator modes,VM 4
+172,Ventilator mode_5.0,Ventilator mode_5.0,Indicators of specific ventilator modes,VM 5
+173,Ventilator mode_6.0,Ventilator mode_6.0,Indicators of specific ventilator modes,VM 6
+174,Ventilator mode_7.0,Ventilator mode_7.0,Indicators of specific ventilator modes,VM 7
+175,Ventilator mode_8.0,Ventilator mode_8.0,Indicators of specific ventilator modes,VM 8
+176,VitB Substitution_1.0,VitB Substitution_1.0,Administration of Vitamin B supplements,Vit B
+177,Weight,Weight,Patient's weight,Weight
+178,ZVD,ZVD (Central Venous Pressure),Measurement of the pressure in the central veins,CVP
+179,Zentral venÃ¶se sÃ¤ttigung,Zentral venöse sättigung (Central Venous Oxygen Saturation),Measurement of oxygen saturation in central venous blood,CVOS
+180,a-BE,a-BE (Arterial Base Excess),Measurement of excess or deficit of base in the blood,aBE
+181,aPTT,aPTT (Activated Partial Thromboplastin Time),"Measurement of blood clotting time, specifically the intrinsic pathway",aPTT
+182,a_COHb,a_COHb (Carboxyhemoglobin),"Level of COHb, indicating carbon monoxide poisoning",aCOHb
+183,a_HCO3-,a_HCO3- (Bicarbonate),"Arterial bicarbonate level, indicating metabolic acid-base status",aHCO3-
+184,a_Hb,a_Hb (Arterial Hemoglobin),Hemoglobin level in arterial blood,aHb
+185,a_Lac,a_Lac (Arterial Lactate),"Arterial lactate level, indicating tissue oxygenation and perfusion",aLac
+186,a_MetHb,a_MetHb (Methemoglobin),"Level of MetHb, indicating oxidation of hemoglobin",aMetHb
+187,a_PO2,a_PO2 (Arterial Partial Pressure of Oxygen),"Partial pressure of oxygen in arterial blood, indicating oxygenation status",aPO2
+188,a_SO2,a_SO2 (Arterial Oxygen Saturation),Saturation of oxygen in arterial blood,aSO2
+189,a_pCO2,a_pCO2 (Arterial Partial Pressure of Carbon Dioxide),"Partial pressure of CO2 in arterial blood, indicating respiratory function",apCO2
+190,a_pH,a_pH (Arterial pH),"pH level of arterial blood, indicating acid-base balance",apH
+191,administration of antiviral_1.0,administration of antiviral_1.0,Administration of antiviral medications,Antivirals
+192,admissiontime,admissiontime,Time of Admission,admissiontime
+193,age,age,age,age
+194,albumin,albumin,"Albumin level in the blood, indicating nutritional status and liver function",albumin
+195,alkaline phosphatase,alkaline phosphatase,"Enzyme level, indicating bone or liver issues",AP
+196,bilirubine total,"bilirubine, total","Total bilirubin level, indicating liver function or hemolysis",Bilirubin
+197,coagulation factors_1.0,coagulation factors_1.0,Administration of coagulation factors,coagulation factors
+198,creatine kinase,creatine kinase,"Enzyme level, indicating muscle damage",CK
+199,creatine kinase-MB,creatine kinase-MB,"Isoenzyme of creatine kinase, indicating heart muscle damage",creatine kinase-MB
+200,creatinine,creatinine,"Creatinine level in the blood, indicating kidney function",creatinine
+201,desmopressin,desmopressin,"Administration of Desmopressin, typically for bleeding disorders",desmopressin
+202,dobutamine,dobutamine,"Administration of Dobutamine, typically for heart failure",dobutamine
+203,epinephrine,epinephrine,"Administration of Epinephrine, for cardiac arrest or anaphylaxis",epinephrine
+204,factor X,factor X,Coagulation Factor X level,factor X
+205,gamma-GT,gamma-GT (Gamma-Glutamyltransferase),"Enzyme level, indicating liver function",gamma-GT
+206,glucose,glucose,"Glucose level in the blood, indicating metabolic status",glucose
+207,height,height,Patient's height,height
+208,levosimendan,levosimendan,"Administration of Levosimendan, typically for heart failure",levosimendan
+209,lymphocyte,lymphocyte,"Lymphocyte count, indicating immune status",lymphocyte
+210,milrinone,milrinone,"Administration of Milrinone, typically for heart failure",milrinone
+211,non-steroids_1.0,non-steroids_1.0,Administration of non-steroidal medications,Non Steroids
+212,norepinephrine,norepinephrine,"Administration of Norepinephrine, for shock or low blood pressure",Norepinephrine
+213,pH Drain,pH Drain,"pH level in drainage fluid, indicating infection or other conditions",pH Drain
+214,pH Liquor,pH Liquor,"pH level in cerebrospinal fluid, indicating brain conditions",pH Liquor
+215,packed red blood cells,packed red blood cells,Administration of packed red blood cells for anemia or blood loss,pRBC
+216,phosphate,phosphate,"Phosphate level in the blood, indicating kidney function or bone metabolism",phosphate
+217,platelet count,platelet count,"Number of platelets in the blood, indicating clotting ability",platelets
+218,platelets,platelets,Administration of platelet transfusions,platelets Admin
+219,procalcitonin,procalcitonin,"Level of procalcitonin, indicating bacterial infection",procalcitonin
+220,sex_M,sex_M,Patient's sex male / female,sex
+221,steroids_1.0,steroids_1.0,Administration of Steroids,Steroids
+222,supplemental oxygen,supplemental oxygen,Administration of supplemental oxygen,supp O2
+223,theophyllin,theophyllin,"Administration of Theophylline, typically for asthma or COPD",theophyllin
+224,total white blood cell count,total white blood cell count,"Total number of white blood cells, indicating immune response or infection",total WBC
+225,urinary Na+,urinary Na+,"Sodium level in urine, indicating kidney function",urinary Na+
+226,urinary creatinin,urinary creatinin,"Creatinine level in urine, indicating kidney function",UC
+227,urinary urea,urinary urea,"Urea level in urine, indicating kidney function",urinary urea
+228,v-Lac,v-Lac (Venous Lactate),"Venous lactate level, indicating tissue oxygenation and perfusion",v-Lac
+229,vasodilatators_1.0,vasodilatators_1.0,Administration of vasodilator medications,vasodilatators
+230,vasopressin,vasopressin,"Administration of Vasopressin, typically for diabetes insipidus or vasodilatory shock",vasopressin
